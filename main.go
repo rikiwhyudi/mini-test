@@ -3,7 +3,7 @@ package main
 import "fmt"
 
 func main() {
-	fmt.Println(apaBole(10))
+	fmt.Println(apaBole(100))
 }
 
 func apaBole(n int) string {
