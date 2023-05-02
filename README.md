@@ -1,3 +1,3 @@
 # mini-test
 
-Untuk output dari sourcecode tersebut tersimpan di folder images
+Untuk output dari source code tersebut tersimpan di folder images
